@@ -1,6 +1,8 @@
 # osu-discord-bot
 Discord bot which serves for displaying osu!-related user statistics.
 
+# [Invite to your server](https://discord.com/api/oauth2/authorize?client_id=810264254790762536&scope=bot&permissions=83968)
+
 # setup
 ```bash
 git clone https://github.com/straightcurve/osu-discord-bot.git
